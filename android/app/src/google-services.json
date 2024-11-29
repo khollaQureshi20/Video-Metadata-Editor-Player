@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649179361499",
+    "project_id": "petstore-d9651",
+    "storage_bucket": "petstore-d9651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649179361499:android:dda43ec875adeb254d9cfe",
+        "android_client_info": {
+          "package_name": "com.videometadataeditor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdF1X7b00DNdSArt7qqBrq70uWE7mGyl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
